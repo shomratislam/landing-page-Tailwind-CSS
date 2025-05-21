@@ -1,5 +1,5 @@
 # Landing Page - Tailwind CSS
-##Live link : https://rrf-ecomearce-home.netlify.app/
+## Live link : https://rrf-ecomearce-home.netlify.app/
 This is a pixel-perfect landing page created using **only Tailwind CSS**.  
 ⚠️ **Note:** This layout is **not responsive** — it's designed specifically for a fixed screen size.
 
