@@ -1,5 +1,5 @@
 ## Landing Page - Tailwind CSS
-### Live link : https://shomratislam.github.io/landing-page-Tailwind-CSS/
+### Live link : https://shomratislam.github.io/landing-page-HTML-CSS/
 This is a pixel-perfect landing page created using **only Tailwind CSS**.  
 ⚠️ **Note:** This layout is **not responsive** — it's designed specifically for a fixed screen size.
 
